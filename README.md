@@ -62,7 +62,7 @@ Follow these steps to run the project locally:
 
 bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ZainabFaruqui/Shoppy-Globe.git
 
 # 2. Move into the project folder
 cd shopswift
